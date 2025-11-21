@@ -1,0 +1,12 @@
+# Next.js build output
+.next/
+
+# Dependencies
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Mac junk
+.DS_Store
